@@ -73,6 +73,7 @@ d888888888888888888888=88888888888888888888888888888888888888888  Normand   88
 
 
                 Thou Have Stumbled Upon an Easter Egg
+                Is it a young woman, or just an old shit?
 
 `
 
@@ -145,7 +146,7 @@ d888888888888888888888=88888888888888888888888888888888888888888  Normand   88
       {questionPointer<=4 &&
         (<>
         <h1 className={[styles.title, displayHeadingClass].join(' ')}>
-          Welcome <a href="https://www.urbandictionary.com/define.php?term=Cute">Stupido</a>
+          Welcome <a href="https://www.urbandictionary.com/define.php?term=shreyu">Shreyu</a>
         </h1>
 
         <p className={[styles.description, displayParaClass].join(' ')}>

@@ -1,15 +1,15 @@
 const data = [
     {
         question: "Which is the best TV Show ever?",
-        error: "Come on A, you know the answer",
-        options: ["Office", "Loki", "Money Heist", "Game of Thrones"],
+        error: "Come on S, you know the answer",
+        options: ["Office", "Friends", "Money Heist", "Game of Thrones"],
         answer: "Office"
     },
     {
-        question: "What is the best way to convey your message?",
+        question: "Who is most similar to moi?",
         error: "Really?",
-        options: ["Telepathy", "Verbal Explanations", "Illustrations and Diagrams", "Excruciating Long Texts"],
-        answer: "Illustrations and Diagrams"
+        options: ["John Cena", "Disha Patani", "Mahatma Gandhi", "Bhagat Singh"],
+        answer: "Bhagat Singh"
     },
     {
         question: "What is the best thing that God has ever made?",
@@ -24,10 +24,10 @@ const data = [
         answer: "All"
     },
     {
-        question: "Who is my favorite chess player of all time?",
-        error: "This one is tough and possibly too geeky",
-        options: ["Rashid Nezhmetdinov", "Vishwanathan Anand", "Magnus Carlsen", "Mikhael Tal"],
-        answer: "Mikhael Tal"
+        question: "What do I like the most about you?",
+        error: "No incorrect answers here either",
+        options: ["Personality", "Bajongas", "Vijay", "Tiktoker"],
+        answer: "All"
     },
 
 ]
