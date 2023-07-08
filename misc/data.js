@@ -26,7 +26,7 @@ const data = [
     {
         question: "What do I like the most about you?",
         error: "No incorrect answers here either",
-        options: ["Personality", "Bajongas", "Vijay", "Tiktoker"],
+        options: ["Personality", "Cute", "Charmin", "Tiktoker"],
         answer: "All"
     },
 
